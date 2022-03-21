@@ -1,0 +1,9 @@
+.progress-bar{
+    background-color: coral;
+    border-radius: 20px;
+}
+.progress{
+    border-radius: 20px;
+    background-color: teal;
+    box-shadow: 0 5px 5px black;
+}
